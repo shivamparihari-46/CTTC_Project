@@ -1,0 +1,6 @@
+data/
+images/
+*.h5
+pycache/
+*.pyc
+.DS_Store
